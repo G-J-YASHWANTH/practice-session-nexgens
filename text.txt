@@ -1,1 +1,5 @@
-adding  new file to the git
+adding  new file to the git.
+commit -> html file commit completed 
+       -> text file commit complete  
+create a new branch  . 
+create some error . -> remove the last line .
